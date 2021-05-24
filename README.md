@@ -12,4 +12,4 @@ Este é meu primeiro projeto fazendo requisição para API externa.
 
 ✔️JavaScript
 
-![imagem tela login]('Dashboard StarWars.JPG')
+![imagem tela login](https://github.com/thieleschwerz/dashboard_starwars/blob/master/Dashboard%20StarWars.JPG)
